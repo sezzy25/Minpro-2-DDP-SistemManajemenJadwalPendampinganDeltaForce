@@ -1,10 +1,15 @@
 # Minpro-2-DDP-JasaPendampinganDeltaForce
 
-**Nama  : **Abdul Azis Zulkarnain
+**Nama**  : **Abdul Azis Zulkarnain**
 
-**NIM   : **2609116051
+**NIM**   : **2609116051**
 
-**Kelas : **B   
+**Kelas** : **B**  
+
+## Deskripsi Tugas
+
+Program ini dibuat untuk mengelola jadwal pendampingan game saya. Ada dua akun, yaitu admin dan user. Admin bisa menambah, melihat, mengubah, menghapus jadwal, dan menghitung biaya. User hanya bisa melihat jadwal. Program ini menggunakan Python dengan list, dictionary, fungsi, percabangan, dan perulangan.
+ 
 
 <img width="222" height="61" alt="Screenshot 2026-10-06 115830" src="https://github.com/user-attachments/assets/17bc5df9-bdc7-4ca0-879a-66125a66c4c0" />
 
