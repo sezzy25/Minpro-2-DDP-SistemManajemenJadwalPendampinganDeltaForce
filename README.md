@@ -276,6 +276,10 @@ Kalau login gagal, tampilkan pesan dan kembali ke login.
 
 <img width="383" height="120" alt="Screenshot 2026-10-06 161210" src="https://github.com/user-attachments/assets/3908934e-7d2c-464f-ab1b-bf86956a5d12" />
 
+## 20. Flowchart
+
+<img width="3207" height="2422" alt="FLOWCHART_Minpro2 drawio" src="https://github.com/user-attachments/assets/570419e1-c3e3-4f16-8906-dbc98aa34fe1" />
+
 
 
 
